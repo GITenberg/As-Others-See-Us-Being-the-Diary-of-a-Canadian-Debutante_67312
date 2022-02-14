@@ -1,0 +1,33 @@
+_repo: As-Others-See-Us-Being-the-Diary-of-a-Canadian-Debutante_67312
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wickson, Alfred Morton
+    gutenberg_agent_id: '54208'
+    url: http://www.gutenberg.org/2009/agents/54208
+creator:
+  author:
+    agent_name: Jarvis, W. H. P. (William Henry Pope)
+    alias: Jarvis, William Henry Pope
+    birthdate: 1876
+    deathdate: 1944
+    gutenberg_agent_id: '37707'
+    url: http://www.gutenberg.org/2009/agents/37707
+description: ''
+gutenberg_issued: '2022-02-03'
+identifiers:
+  gutenberg: '67312'
+language: en
+pgterms:marc905: 20220107154619jarvis
+pgterms:marc906: '1915'
+pgterms:marc907: CA
+production_note: Iona Vaughan, Pat McCoy & the online Distributed Proofreaders Canada
+  team
+publication_note: Canada :MacMillan Company of Canada, Ltd,1915.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'As Others See Us: Being the Diary of a Canadian Debutante'
+url: http://www.gutenberg.org/ebooks/67312

@@ -5,6 +5,9 @@ contributor:
     agent_name: Wickson, Alfred Morton
     gutenberg_agent_id: '54208'
     url: http://www.gutenberg.org/2009/agents/54208
+covers:
+- cover_type: archival
+  image_path: 67312-h/images/cover.jpg
 creator:
   author:
     agent_name: Jarvis, W. H. P. (William Henry Pope)
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '37707'
     url: http://www.gutenberg.org/2009/agents/37707
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67312#As-Others-See-Us-Being-the-Diary-of-a-Canadian-Debutante
 gutenberg_issued: '2022-02-03'
 identifiers:
   gutenberg: '67312'
